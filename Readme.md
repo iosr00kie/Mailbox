@@ -6,6 +6,6 @@ Week 3 iOS Assignment
 
 #Video Walkthrough
 
-![alt tag](https://raw.githubusercontent.com/iosr00kie/Mailbox/master/Mailbox_Deepak_Deshpande.gif)
+![alt tag](https://raw.githubusercontent.com/iosr00kie/Mailbox/master/Mailbox_Deepak_Deshpande_1.gif)
 
 
